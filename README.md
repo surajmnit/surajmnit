@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @surajmnit
+- 👋 Hi, I’m Suraj Tripathi
 - 👀 I’m interested in learning data engineering technologies
 - 🌱 I’m currently learning pyspark
 - 💞️ I’m looking to collaborate on pyspark
